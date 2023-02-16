@@ -216,6 +216,12 @@ nav ul li:hover {
     max-width: fit-content;
 }
 
+.socials{
+    margin: 0.5rem;
+    height: 40px;
+    width: 30px;
+}
+
 
 
 
